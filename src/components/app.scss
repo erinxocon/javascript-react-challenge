@@ -1,0 +1,25 @@
+$dark-grey: #222;
+$white: #fff;
+
+.app {
+  text-align: center;
+
+  &__header {
+    background-color: $dark-grey;
+    color: $white;
+    height: 150px;
+    padding: 20px;
+
+    &__logo {
+      height: 80px;
+    }
+
+    &__title {
+      font-size: 1.5em;
+    }
+  }
+
+  &__intro {
+    font-size: large;
+  }
+}
