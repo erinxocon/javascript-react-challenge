@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+# javascript-react-challenge
+This is the javascript interview challenge that Four Winds Interactive uses for new interviewees. This project has been bootstrapped with
+[Create React App](https://github.com/facebookincubator/create-react-app) as well as basic SCSS support.
+
+
+## create-react-app
 
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
